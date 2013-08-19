@@ -13,8 +13,9 @@ I would like to thank Nathan de Vries for discovering the WebGL support of iAd®
 
 Credits
 --------------------------------------------------------------------------------
-Martin Burkhard - iPad Application Development, [http://www.sourcedome.de](http://www.sourcedome.de)
+Martin Burkhard - iPad Application Development, [http://www.sourcedome.de](http://www.sourcedome.de)<br/>
 Nathan de Vries - Initiator, iOS WebGL Hack, [http://atnan.com](http://atnan.com)
+
 License
 --------------------------------------------------------------------------------
 The MIT License (MIT), [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
